@@ -1,0 +1,4 @@
+Bundle-Name: formModification
+Bundle-SymbolicName: com.axa.jordi.test.formModification
+Bundle-Version: 1.0.0
+Export-Package: com.axa.jordi.test.formModification

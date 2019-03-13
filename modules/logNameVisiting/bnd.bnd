@@ -1,0 +1,4 @@
+Bundle-Name: logNameVisiting
+Bundle-SymbolicName: com.axa.jordi.test.logName
+Bundle-Version: 1.0.0
+Export-Package: com.axa.jordi.test.logName
